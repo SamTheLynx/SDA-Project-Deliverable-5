@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Uni\Fall '22\SDA\Project1\Project1\Source.cpp(36,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\Source.cpp(41,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\Source.cpp(57,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\Source.cpp(62,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\Source.cpp(77,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\Source.cpp(82,1): warning C4305: '=': truncation from 'double' to 'float'
+  Project1.vcxproj -> D:\Uni\Fall '22\SDA\Project1\Debug\Project1.exe
